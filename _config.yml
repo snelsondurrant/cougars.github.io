@@ -1,8 +1,10 @@
 title: CoUGARs
-description: YOUR DESCRIPTION
+description: Cooperative Underwater Group of Autonomous Robots
 theme: just-the-docs
 
 url: https://snelsondurrant.github.io/cougars
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/snelsondurrant/cougars
+
+$link-color: $blue-000;
