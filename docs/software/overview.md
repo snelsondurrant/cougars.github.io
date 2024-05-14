@@ -18,3 +18,7 @@ parent: Software
 [https://github.com/snelsondurrant/CougarsRPi.git](https://github.com/snelsondurrant/CougarsRPi.git)
 
 [https://github.com/snelsondurrant/CougarsTeensy.git](https://github.com/snelsondurrant/CougarsTeensy.git)
+
+[https://github.com/snelsondurrant/CougarsDocs.git](https://github.com/snelsondurrant/CougarsDocs.git)
+
+[https://snelsondurrant.github.io/CougarsDocs/](https://snelsondurrant.github.io/CougarsDocs/)
