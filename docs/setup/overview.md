@@ -2,7 +2,7 @@
 layout: default
 title: Overview
 nav_order: 1
-parent: Software
+parent: Software Setup
 ---
 
 # Overview
@@ -21,4 +21,15 @@ parent: Software
 
 [https://github.com/snelsondurrant/CougarsDocs.git](https://github.com/snelsondurrant/CougarsDocs.git)
 
-[https://snelsondurrant.github.io/CougarsDocs/](https://snelsondurrant.github.io/CougarsDocs/)
+{: .note }
+> More in-depth documentation is included in the "README.md" files for all of the GitHub repos above, in addition to header comments in other important files.
+
+---
+
+## Development Stack Diagram
+![](../../assets/images/Development Stack.png)
+
+---
+
+## Robot Operating System Graph
+![](../../assets/images/Robot Operating System.png)

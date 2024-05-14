@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Software
+title: Assembly
 nav_order: 2
 has_children: true
-permalink: docs/software
+permalink: docs/assembly
 ---
 
-# Software
+# Coug-UV Assembly
 {: .no_toc }
