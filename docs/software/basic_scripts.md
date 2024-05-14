@@ -23,7 +23,7 @@ ssh frostlab@coug<number>.local
 
 **(3) Start the latest Docker container**
 ```bash
-cd ~/CougarsStarter
+cd ~/CougarsSetup
 bash docker.sh
 ```
 (password: 'frostlab')
@@ -48,7 +48,7 @@ bash agent.sh
 ```
 ```bash
 # from a new terminal on the Raspberry Pi
-cd ~/CougarsStarter
+cd ~/CougarsSetup
 bash extra.sh
  
 # from the Docker container (new terminal)
@@ -58,7 +58,7 @@ bash test.sh
 
 ---
 
-## Accessing Bag Files
+## Copying Bag Files
 ```bash
 # from your local computer
 scp -r frostlab@coug<number>.local:~/bag/<bag_wanted> <path_to_destination>
