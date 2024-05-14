@@ -6,3 +6,8 @@ url: https://snelsondurrant.github.io/cougars
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/snelsondurrant/cougars
+
+color_scheme: frost
+favicon_ico: "/assets/images/favicon.ico"
+
+footer_content: "The CoUGARs documentation is maintained and distributed by the <a href=\"https://frostlab.byu.edu/\">BYU Field Robotics Systems Lab.</a>"
