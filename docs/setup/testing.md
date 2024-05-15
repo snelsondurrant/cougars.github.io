@@ -26,4 +26,4 @@ bash test.sh
 ```
 
 {: .note }
-> The micro-ROS publishers on both Teensy's are configured to publish empty messages unless the corresponding sensors are enabled. You can enable/disable sensors using the #define statements in "teensy_ws/controls/src/main.cpp" and "teensy_ws/sensors/src/main.cpp."
+> The micro-ROS publishers on both Teensy's are configured to publish empty messages unless the corresponding sensors are enabled. You can enable/disable sensors using the #define statements in "teensy_ws/control/src/main.cpp" and "teensy_ws/sensors/src/main.cpp."
