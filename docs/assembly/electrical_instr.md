@@ -26,13 +26,13 @@ Now return to Eagle under the the .brd tab. Within the toolbar line across the t
 [COUG_powerboard.sch link](https://byu.box.com/s/jcqulffcyls4dua039p1142ic2lz8b0v)
 
 {: .note }
-> download and put these files in the same folder. This is essential for PCB design software like Eagle to recognize they go together.
+> Put these files in the same folder. This is essential for PCB design software like Eagle to recognize they go together.
 
 ---
 
 ## Strobe Light PCB
 
-Utilizing the same method as above, you can send out the strobe light PCB for production. (Link found below)
+Utilizing the same method as above, you can send the strobe light PCB out for production. (Link found below)
 
 ### Links to Strobe PCB board (.brd and .sch)
 
