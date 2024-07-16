@@ -51,6 +51,7 @@ This is the milled board from JLCPCB. To begin soldering the components onto the
 ### LittleFuse and TVS Diode
 \
 ![](../../assets/images/TVS_Littlefuse.jpg)
+
 {: .note }
 > Ensure you solder the TVS diode in the correct orientation.
 
