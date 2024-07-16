@@ -72,7 +72,7 @@ This is the milled board from JLCPCB. To begin soldering the components onto the
 ![](../../assets/images/last_PCB_components.jpg)
 
 #### Solder the components in this order.
-1. Red (Molex headers and Fuse *put fuse in before soldering*)
+1. Red (Molex headers and Fuse)
 2. Yellow (Header pins)
 3. Green (Resistors and Capacitors)
 4. DC-DC converter
