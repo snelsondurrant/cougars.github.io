@@ -45,3 +45,19 @@ Utilizing the same method as above, you can send the strobe light PCB out for pr
 ## PCB Assembly
 \
 ![](../../assets/images/COUG_PCB.jpg)
+
+This is the milled board from JLCPCB. To begin soldering the components onto the board I would recommend doing it in the following order.
+
+### LittleFuse and TVS Diode
+\
+![](../../assets/images/TVS_Littlefuse.jpg)
+
+### Headers
+\
+![](../../assets/images/PCB_Connectors.jpg)
+
+#### Solder the headers in this order.
+1. Yellow (1.25 mm headers)
+2. Red (2.0 mm headers)
+3. Blue (2.54 mm headers)
+
