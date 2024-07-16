@@ -62,5 +62,21 @@ This is the milled board from JLCPCB. To begin soldering the components onto the
 #### Solder the headers in this order.
 1. Yellow (1.25 mm headers)
 2. Red (2.0 mm headers)
-3. Blue (2.54 mm headers)
+3. Green (2.54 mm headers)
 
+{: .note }
+> I used the 1.25mm headers unconventially by soldering surface mount headers into through hole connections. I find it to be easier and sturdier this way.
+
+### Final Components
+\
+![](../../assets/images/last_PCB_components.jpg)
+
+#### Solder the components in this order.
+1. Red (Molex headers and Fuse *put fuse in before soldering*)
+2. Yellow (Header pins)
+3. Green (Resistors and Capacitors)
+4. DC-DC converter
+
+### Completed Board
+\
+![](../../assets/images/Completed_PCB.jpg)
