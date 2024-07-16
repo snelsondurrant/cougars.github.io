@@ -32,7 +32,7 @@ Now return to Eagle under the the .brd tab. Within the toolbar line across the t
 
 ## Strobe Light PCB
 
-Utilizing the same method as above, you can send the strobe light PCB out for production. (Link found below)
+Utilizing the same method as above, you can send the strobe light PCB out for production. (Links found below)
 
 ### Links to Strobe PCB board (.brd and .sch)
 
@@ -41,3 +41,7 @@ Utilizing the same method as above, you can send the strobe light PCB out for pr
 
 **.sch:**
 [.sch link](https://byu.box.com/s/jcqulffcyls4dua039p1142ic2lz8b0v)
+
+## PCB Assembly
+\
+![](../../assets/images/COUG_PCB.jpg)
