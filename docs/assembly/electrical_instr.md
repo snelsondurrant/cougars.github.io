@@ -28,7 +28,6 @@ Now return to Eagle under the the .brd tab. Within the toolbar line across the t
 {: .note }
 > Put these files in the same folder. This is essential for PCB design software like Eagle to recognize they go together.
 
----
 
 ## Strobe Light PCB
 
@@ -41,6 +40,8 @@ Utilizing the same method as above, you can send the strobe light PCB out for pr
 
 **.sch:**
 [.sch link](https://byu.box.com/s/jcqulffcyls4dua039p1142ic2lz8b0v)
+
+---
 
 ## PCB Assembly
 \
@@ -80,3 +81,8 @@ This is the milled board from JLCPCB. To begin soldering the components onto the
 ### Completed Board
 \
 ![](../../assets/images/Completed_PCB.jpg)
+
+The finished board should look something like this.
+
+---
+
