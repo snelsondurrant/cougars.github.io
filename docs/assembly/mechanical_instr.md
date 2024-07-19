@@ -11,7 +11,7 @@ parent: Assembly
 
 ## Interior Frame
 
-The first thing to assemble should be the interior frame that will be the structure for all of the electronics inside the enclosure.
+The first thing to assemble should be the interior frame. That will be the structure for all of the electronics inside the enclosure.
 
 You will need these four 3d printed pieces.
 [insert photo of parts]
