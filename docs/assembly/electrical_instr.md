@@ -86,3 +86,31 @@ The finished board should look something like this.
 
 ---
 
+## Thruster and Servos
+
+To complete this step you will need the tailcone and rear extension parts printed.
+
+
+Make sure the wires for the servo and thruster is threaded from the outside of the tailcone through their holes and then through the penetrators. As shown below.
+
+\
+![](../../assets/images/thruster_outside.jpg)
+
+\
+![](../../assets/images/thruster_servo_inside.jpg)
+
+POV inside the tailcone
+
+{: .note }
+> You may need to cut off the connectors on the servos to fit them through the penetrators.
+
+\
+![](../../assets/images/servo_wires.jpg)
+
+After you have the wires threaded through the penetrators you can fit them to the Molex micro connectors. You will need to crimp the ends so that they fit into the connector as shown. 
+
+\
+![](../../assets/images/thruster_terminal.jpg)
+
+The three wires from the thruster should be secured in a screw terminal as shown.
+
