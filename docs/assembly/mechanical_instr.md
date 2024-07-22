@@ -17,11 +17,29 @@ You will need these four 3d printed pieces.
 [insert photo of parts]
 
 You will also need:
-- Male-Female Hex Standoff M3x12mm
-- Female-Female Hex Standoff M3x31mm
-- Female-Female Hex Standoff 4-40x6in
-- Male-Female Hex Standoff 4-40x7/8in 
-- M3X25 socket cap screws
-- M3X14 socket cap screws
-- M3X12 socket cap screws
-- 4-40 X 1/2" philips head screw
+- 4 Male-Female Hex Standoff M3x12mm
+- 5 Female-Female Hex Standoff M3x31mm
+- 2 Female-Female Hex Standoff 4-40x6in
+- 2 Male-Female Hex Standoff 4-40x7/8in 
+- 18 M3X12 socket cap screws
+- 4 M3 nuts
+- 4 philips head screw 4-40 X 1/2" 
+- Electronics tray
+
+\
+![](../../assets/images/31mm_m3_standoff.jpg)
+
+M3 31mm standoffs.
+
+\
+![](../../assets/images/4-40_standoffs.jpg)
+
+4-40 standoffs.
+
+\
+![](../../assets/images/12mm_standoff_elec_tray.jpg)
+
+12mm standoffs (Blue), M3 screw and nut for electronics tray.
+
+
+[insert photo of final assembly]
