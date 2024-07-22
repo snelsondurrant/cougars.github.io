@@ -14,7 +14,10 @@ parent: Assembly
 The first thing to assemble should be the interior frame. That will be the structure for all of the electronics inside the enclosure.
 
 You will need these four 3d printed pieces.
-[insert photo of parts]
+
+\
+![](../../assets/images/3d_printed_internal_frame.jpg)
+
 
 You will also need:
 - 4 Male-Female Hex Standoff M3x12mm
