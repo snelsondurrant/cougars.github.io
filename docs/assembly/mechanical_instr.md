@@ -41,5 +41,6 @@ M3 31mm standoffs.
 
 12mm standoffs (Blue), M3 screw and nut for electronics tray.
 
+{: .note }
+> Make sure the electronics tray is in the correct orientation, otherwise the usb connections on the raspberry pi will be blocked.
 
-[insert photo of final assembly]
