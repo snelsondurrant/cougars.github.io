@@ -9,4 +9,10 @@ parent: Assembly
 
 ---
 
-[ add here ]
+**Print EVERYTHING in PETG on 100% infill**
+
+## Internal Frame
+
+These are the first parts you need to print.
+
+2x of these [battery spacer]()

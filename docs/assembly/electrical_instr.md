@@ -138,3 +138,6 @@ After, you will need to align one side of these Power rails on the electronics t
 ![](../../assets/images/powerrail_mounted.jpg)
 
 This is what the final result will look like before gluing it in place.
+
+---
+
