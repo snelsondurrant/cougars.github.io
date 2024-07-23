@@ -114,3 +114,27 @@ After you have the wires threaded through the penetrators you can fit them to th
 
 The three wires from the thruster should be secured in a screw terminal as shown.
 
+---
+
+## Electronics Tray
+
+### Power Rails
+The Power Rails will be mounted on the back of the electronics tray as shown.
+
+To mount these correctly you need to first break off the plastic shielding around the bottom pegs. You will then need to bend one of the side prongs into the middle and break off the thin section at the top. Here is an example.
+
+![](../../assets/images/first_bend.jpg)
+
+Following that you will need to bend the rest of the pegs over onto the one next to it as shown in this image.
+
+![](../../assets/images/fully_bent_powerrail.jpg)
+
+The prongs will then need to be soldered together so that they are all connected. Be liberal with the solder.
+
+Repeat this process once more.
+
+After, you will need to align one side of these Power rails on the electronics tray so that a hole on the side lines up with the hole in the tray. You will then put an M5x25mm screw through one rail, the tray hole, and through the other rail so that they are aligned and somewhat held in place. Finally, after they are positioned correctly, hot glue can be applied all around the base to insulate as well as secure them in place.
+
+![](../../assets/images/powerrail_mounted.jpg)
+
+This is what the final result will look like before gluing it in place.
